@@ -47,7 +47,7 @@
       this.panel1.Location = new System.Drawing.Point(0, 0);
       this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
       this.panel1.Name = "panel1";
-      this.panel1.Size = new System.Drawing.Size(555, 75);
+      this.panel1.Size = new System.Drawing.Size(555, 50);
       this.panel1.TabIndex = 0;
       // 
       // panel2
